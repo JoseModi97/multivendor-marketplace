@@ -1,0 +1,2 @@
+# multivendor-marketplace
+ This repository contains the codebase for a robust multivendor marketplace platform. It enables multiple vendors to register, manage their products, and fulfill orders within a single ecommerce ecosystem. Built on php, it supports secure payments, scalable product management, and a seamless user experience for both vendors and customers. Ideal for entrepreneurs looking to launch a dynamic online marketplace with extensive customization and growth potential.
